@@ -76,4 +76,3 @@ class SimpleTodos extends Component {
 }
 
 export default SimpleTodos
-
